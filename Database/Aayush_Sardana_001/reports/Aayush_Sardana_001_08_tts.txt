@@ -1,0 +1,19 @@
+Here is your facial health summary for 001, generated on 09 September 2026.
+
+Overall, several things were flagged that may be worth discussing with a professional. The system's confidence in this analysis is 83 percent.
+
+1 significant observation(s) detected requiring attention. 2 noticeable observation(s) identified. Note: This report contains visual observations only and does not constitute a medical diagnosis. Please consult a qualified healthcare professional for any health concerns.
+
+Looking at your face shape and balance. Observation: Slight facial unevenness noted (Normal Symmetry, score 79/100). Minor variations are common and typically insignificant. Head alignment appears level. Observation: Face appears relatively wide for its height. No swelling indicators detected based on facial proportions.
+
+Looking at your eyes. Observation: Notable puffiness under the eye around left eye.
+
+Slight difference in eye openness noted (left 89/100, right 100/100).
+
+Looking at your skin. Lighting on forehead was too low to reliably assess texture or spot detail in this region; those readings are not included here. Observation: Moderate skin redness on forehead. Lighting on left cheek was too low to reliably assess texture or spot detail in this region; those readings are not included here.
+
+Looking at your lips. Lighting on the lips was too low to reliably assess dryness; that reading is not included here.
+
+Looking at your mouth shape. Observation: Moderate difference in mouth corner height between left and right. May reflect natural unevenness or positional artifact.
+
+That is the end of your facial health summary. Some noticeable things were detected. Consider sharing this report with a healthcare professional if any of the findings concern you. Remember, this is not a medical diagnosis.

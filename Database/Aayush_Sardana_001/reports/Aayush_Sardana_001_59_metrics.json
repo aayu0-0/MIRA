@@ -1,0 +1,74 @@
+{
+  "patient_id": "001",
+  "timestamp": "2026-09-27T18:06:41.454744",
+  "quality_warnings": [],
+  "Face": {
+    "Symmetry": 89.4,
+    "Angle": -1.1,
+    "Width": 155,
+    "Height": 178,
+    "Aspect Ratio": 1.148,
+    "Swelling": 0.0,
+    "Cheek/Eye Ratio": 1.55
+  },
+  "Eyes": {
+    "Left": {
+      "Openness": 79.7,
+      "Redness": 0.0,
+      "Dark Circle": 0.0,
+      "Puffiness": 0.0
+    },
+    "Right": {
+      "Openness": 92.0,
+      "Redness": 0.0,
+      "Dark Circle": 0.0,
+      "Puffiness": 0.0
+    }
+  },
+  "Skin": {
+    "Forehead": {
+      "Acne": 0.0,
+      "Redness": 37.3,
+      "Texture": 62.1,
+      "Spot Count": 0
+    },
+    "Left Cheek": {
+      "Acne": 0.0,
+      "Redness": 0.0,
+      "Texture": 68.7,
+      "Spot Count": 0
+    },
+    "Right Cheek": {
+      "Acne": 10.0,
+      "Redness": 3.4,
+      "Texture": 84.9,
+      "Spot Count": 1
+    },
+    "Nose": {
+      "Acne": 10.0,
+      "Redness": 6.7,
+      "Texture": 55.1,
+      "Spot Count": 1
+    }
+  },
+  "Lips": {
+    "Dryness": 100.0,
+    "Color Consistency": 88.8,
+    "Pallor": 61.4
+  },
+  "Mouth": {
+    "Aspect Ratio": 100.0,
+    "Corner Asymmetry": 21.1,
+    "Curvature": -8.7
+  },
+  "Overall": {
+    "Label": "Notable Observations Present",
+    "Observation Score": 83.0,
+    "Summary": [
+      "2 notable observation(s) detected requiring attention.",
+      "3 moderate observation(s) identified.",
+      "3 mild observation(s) noted.",
+      "Note: This report contains visual observations only and does not constitute a medical diagnosis. Please consult a qualified healthcare professional for any health concerns."
+    ]
+  }
+}

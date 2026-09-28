@@ -1,0 +1,24 @@
+{
+  "patients": [
+    {
+      "name": "Aayush Sardana",
+      "id": "001",
+      "folder": "Aayush_Sardana_001"
+    },
+    {
+      "name": "Sour Candy",
+      "id": "007",
+      "folder": "Sour_Candy_007"
+    },
+    {
+      "name": "Ajay",
+      "id": "002",
+      "folder": "Ajay_002"
+    },
+    {
+      "name": "Geeta Sardana",
+      "id": "003",
+      "folder": "Geeta_Sardana_003"
+    }
+  ]
+}
